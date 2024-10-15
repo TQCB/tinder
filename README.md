@@ -8,20 +8,16 @@ differences between people's perception compared to reality.
 Identify characteristics that lead to a higher chance of a second date.
 
 ## Methods:
+- Descriptive statistics: Summarizing key data points.
+- Data visualizations: Creating insightful charts and graphs.
+- Analysis of participant ratings on qualities like attractiveness, intelligence, and - shared interests.
 
-Descriptive statistics: Summarizing key data points.
-Data visualizations: Creating insightful charts and graphs.
-Analysis of participant ratings on qualities like attractiveness, intelligence, and shared interests.
-Deliverables:
-
-## Jupyter notebook containing:
-Descriptive statistics of the dataset.
-Visualizations exploring factors influencing second date selections.
-Interpretations of the findings to understand user preferences.
-Project Benefits:
+## Deliverables:
+- Descriptive statistics of the dataset.
+- Visualizations exploring factors influencing second date selections.
+- Interpretations of the findings to understand user preferences.
 
 ## This analysis can inform Tinder on how to:
-
 - Improve user profiles to emphasize important qualities.
 - Refine matching algorithms to prioritize compatible users based on data-driven insights.
 
